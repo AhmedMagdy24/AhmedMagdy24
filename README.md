@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmed Magdy
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Discord
-- 📫 you can text me on Heisenberg#5849
+- 💞️ I’m looking to collaborate on Front-end Projects
+- 📫 you can reach me on ahmed.magdy19118@gmail.com
 
 <!---
 AhmedMagdy24/AhmedMagdy24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
