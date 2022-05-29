@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Magdy
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 you can reach me on ahmed.magdy19118@gmail.com
 
