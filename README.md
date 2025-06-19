@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ahmed Magdy
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Front-end Projects
+- 👀 I’m interested in Devops
 - 📫 you can reach me on ahmed.magdy19118@gmail.com
 
 <!---
